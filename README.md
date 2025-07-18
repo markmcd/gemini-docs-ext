@@ -3,6 +3,8 @@
 This extension provides documentation support for building with the Gemini API
 on the Gemini CLI or other MCP-enabled tools.
 
+![Video showing the Gemini docs extension installing and working in the Gemini CLI](demo.webp)
+
 ## Gemini CLI installation
 
 You can clone the repository directly into the Gemini CLI extensions directory. Choose between a global installation (available to your user everywhere) or a local installation (for the current workspace).
