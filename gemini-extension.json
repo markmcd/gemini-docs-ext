@@ -1,0 +1,21 @@
+{
+  "name": "gemini-docs-ext",
+  "version": "1.0.0",
+  "mcpServers": {
+    "gemini-docs-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "mcpdoc",
+        "mcpdoc",
+        "--urls",
+        "GeminiApiDocs:https://ai.google.dev/gemini-api/docs/llms.txt",
+        "GeminiApiReference:https://ai.google.dev/api/llms.txt",
+        "--transport",
+        "stdio"
+      ]
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
+
