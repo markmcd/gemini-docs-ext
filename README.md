@@ -1,4 +1,4 @@
-# Gemini API docs extension for Gemini CLI
+# Gemini API docs MCP and extension for Gemini CLI
 
 This extension provides documentation support for building with the Gemini API
 on the Gemini CLI or other MCP-enabled tools.
